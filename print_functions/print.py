@@ -8,3 +8,5 @@ print('two=',2,'three=',3,sep='\n',end='\nhi')
 
 print('\nvetri',
       'raja',sep='\n')
+
+print(2+3*5)
